@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I am Saroar Islma
 
-<!--
-**Saroar-Islam/Saroar-Islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### a frontend web developer
 
-Here are some ideas to get you started:
+I am a self-taught web developer. I am still learning. I know html, css and javascript basics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: / HTML / CSS / JS
+
+-   🌱 I’m currently learning javascript. I know the basics, now I am trying to learn the advance stuffs.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroar-Islam)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saroar-Islam&show_icons=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saroar-Islam)
+
+![Profile views](https://gpvc.arturio.dev/Saroar-Islam)
