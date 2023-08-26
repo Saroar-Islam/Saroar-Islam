@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saroar Islam</h1>
 <h3 align="center">A frontend developer</h3>
 
-<p align="left"> I am a self-taught web developer. I am still learning. I know html, css and javascript basics. </p>
+<p align="center"> I am a self-taught web developer. I am still learning. I know html, css and javascript basics. </p>
+
+<br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -13,10 +16,20 @@
 
 -   🌱 I’m currently learning javascript. I know the basics, now I am trying to learn the advance stuffs.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroar-Islam)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saroar-Islam&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Saroar-Islam)
+<br>
+<br>
 
-![Profile views](https://gpvc.arturio.dev/Saroar-Islam)
+
+## Portfolio:  https://personal-portfolio-saroar.netlify.app/
+ 
