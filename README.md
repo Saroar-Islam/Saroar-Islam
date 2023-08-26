@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saroar Islam</h1>
-<h3 align="center">A frontend developer</h3>
+<h1 align="center">Hello 👋, I'm Saroar Islam</h1>
+<h3 align="center">A Front-End Developer</h3>
 
 <p align="center"> I am a self-taught web developer. I am still learning. I know html, css and javascript basics. </p>
 
